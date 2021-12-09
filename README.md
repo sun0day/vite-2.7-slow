@@ -27,4 +27,4 @@ Vite 2.7.x is much slower than vite 2.6.14. This example repository contains a c
 
 2.7 is about 1.9 times slower.
 
-> Times rounded up to nearest second.
+> Times rounded to nearest second.
